@@ -1,16 +1,20 @@
-## Hi there 👋
+## About me
 
-<!--
-**williamsaintmartin/williamsaintmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
 
-Here are some ideas to get you started:
+I am an aspiring Data Analyst from France, with the desire to grow my skills to transform data into actionnable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Current Tech Stack
+
+Languages:
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
+- MySQL
+- ...
+
+
+### Contact
+LinkedIn profile: *https://www.linkedin.com/in/william-saintmartin/*
+
+
+#### Feel free to check my repositories to see the projects I've been working on!

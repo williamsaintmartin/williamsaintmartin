@@ -1,20 +1,21 @@
-## About me
+# ABOUT ME
 
-### Introduction
+## Introduction
 
-I am an aspiring Data Analyst from France, with the desire to grow my skills to transform data into actionnable insights.
+I am an aspiring Data Analyst, with the desire to grow my skills to transform data into actionnable insights.
 
 
-### Current Tech Stack
+## Current Technologies Used
 
-Languages:
+Programming Language:
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
+
+Relational DataBase Management System (RDBMS):
 - MySQL
-- ...
 
 
-### Contact
+## Contact
 LinkedIn profile: *https://www.linkedin.com/in/william-saintmartin/*
 
 
-#### Feel free to check my repositories to see the projects I've been working on!
+### Feel free to check my repositories to see the projects I've been working on!

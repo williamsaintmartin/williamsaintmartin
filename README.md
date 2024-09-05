@@ -8,7 +8,7 @@ I am an aspiring Data Analyst, with the desire to grow my skills to transform da
 ## Current Technologies Used
 
 Programming Language:
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Natural Language ToolKit, Beautiful Soup)
 
 Relational DataBase Management System (RDBMS):
 - MySQL

@@ -5,7 +5,7 @@
 I am an aspiring Data Analyst, with the desire to grow my skills to transform data into actionnable insights.
 
 
-## Current Technologies Used
+## Toolkit
 
 Programming Language:
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Natural Language ToolKit, Beautiful Soup)

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I am an aspiring Data Analyst, with the desire to grow my skills to transform data into actionnable insights.
+As a Junior Data Analyst, I intend to grow my skills through hands-on projects to transform data into actionnable insights.
 
 
 ## Toolkit

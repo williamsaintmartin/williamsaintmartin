@@ -10,7 +10,7 @@ As a Junior Data Analyst, I intend to grow my skills through hands-on projects t
 Programming Language:
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Natural Language ToolKit, Beautiful Soup)
 
-Relational DataBase Management System (RDBMS):
+Query Language:
 - MySQL
 
 

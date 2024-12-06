@@ -2,16 +2,19 @@
 
 ## Introduction
 
-As a Junior Data Analyst, I intend to grow my skills through hands-on projects to transform data into actionnable insights.
+As a Data Analyst, I intend to grow my skills through hands-on projects to transform data into actionnable insights.
 
 
 ## Toolkit
 
 Programming Language:
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Natural Language ToolKit, Beautiful Soup)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK, BeautifulSoup)
 
 Query Language:
-- MySQL
+- SQL (MySQL, SQLite)
+
+Scripting Language:
+- Bash
 
 
 ## Contact
